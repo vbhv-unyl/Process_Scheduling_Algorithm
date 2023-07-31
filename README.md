@@ -2,4 +2,4 @@
 Author : coderstack (vbhv-unyl)
 
 # DESCRIPTION
-UNICORE CPU Process Scheduling Algorithm
+UNICORE CPU Process Scheduling Algorithm.
